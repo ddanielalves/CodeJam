@@ -1,0 +1,15 @@
+3
+5
+*CONUTS
+*COCONUTS
+*OCONUTS
+*CONUTS
+*S
+2
+*XZ
+*XYZ
+4
+*O
+*ODO
+*DO
+*ODODO
